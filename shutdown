@@ -1,0 +1,5 @@
+@echo off
+shutdown /s /f /t 0
+@REM    To shut down when you start the system make this file as a auto start file by going in settings . Save it on the home screen so that it can be deleted easily .. 
+@REM  IMportant to delete this first add a adelay in this so thay you can delete the file..   save this file as .bat  file..
+ 
